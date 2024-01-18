@@ -9,3 +9,7 @@ Side by side
 We're marching into destiny
 --------------------------------
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8701ca44c9f0a06d287b318395fc06423cc0fc8e
